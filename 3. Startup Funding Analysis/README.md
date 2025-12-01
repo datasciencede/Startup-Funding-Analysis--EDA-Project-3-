@@ -88,11 +88,3 @@ Fork the repository, work on your changes, and submit a pull request.
 
 ---
 
-## 📫 Contact
-
-Made with ❤️ by **Varunkumar2516**  
-For any questions, suggestions, or collaborations:
-
-📬 GitHub: [github.com/Varunkumar2516](https://github.com/Varunkumar2516)
-
----
