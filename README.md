@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/python-3.x-blue?style=flat-square)
 
 # __For View Streamlit Version Press Below Link__
-[__Streamlit_Version__](https://dataanalysisprojects-fpdw35a5e85vutbgz7ksxk.streamlit.app/)
+[__Streamlit_Version__]( http://localhost:8501)
 
 
 An Exploratory Data Analysis (EDA) project that investigates trends, insights, and patterns in **startup funding in India** using a cleaned dataset. This project is ideal for students and beginner data scientists interested in real-world business datasets and visual storytelling.
@@ -55,16 +55,8 @@ These insights can help aspiring entrepreneurs, investors, and analysts better u
 
 - Encourage exploration, questioning, and interpretation of data.
 
----
 
-## 🚀 Getting Started
 
-Follow these steps to use the projects:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Varunkumar2516/Data_Analysis_Projects.git
-   cd Data_Analysis_Projects
 
 ## 💡 How to Contribute
 
